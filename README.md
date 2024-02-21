@@ -1,4 +1,4 @@
-# ### 👋 Hey there, I'm Charge!
+# 👋 Hey there, I'm Charge!
 
 `Full Stack Developer`
 
