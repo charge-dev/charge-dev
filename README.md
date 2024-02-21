@@ -1,3 +1,3 @@
 # 👋 Hey there, I'm Charge!
 
-`Full Stack Developer`
+`Full Stack Developer • Discord Bot Developer`
