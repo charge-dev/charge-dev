@@ -26,8 +26,7 @@ I'm Charge and I've been coding for more than 7 years. At first, I started as a 
 
 ---
 
-## My Projects
-<h2>Top Open Source Projects</h2></summary>
+<h2>Top Open Source Projects</h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
