@@ -31,8 +31,5 @@ I'm Charge and I've been coding for more than 7 years. At first, I started as a 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/charge-dev/ultrabot-lite.git">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charge-dev&repo=ultrabot-lite&theme=react&bg_color=21262D&title_color=15B1A9&hide_border=true&icon_color=F8D866&show_icons=false" alt="UltraBot Lite">
-  </a>
-  <img src="https://img.shields.io/github/languages/top/charge-dev/ultrabot-lite" alt="Primary Language">
-</p>
+    <a href="https://github.com/charge-dev/UltraBot-Lite.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charge-dev&repo=ultrabot-lite&theme=react&bg_color=21262D&title_color=15B1A9&hide_border=true&icon_color=7A838C&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
