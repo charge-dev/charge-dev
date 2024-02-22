@@ -27,7 +27,6 @@ I'm Charge and I've been coding for more than 7 years. At first, I started as a 
 ---
 
 ## My Projects
-<details open> 
   <summary><h2>Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -37,4 +36,3 @@ I'm Charge and I've been coding for more than 7 years. At first, I started as a 
   </p>
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
