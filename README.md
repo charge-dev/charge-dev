@@ -31,8 +31,8 @@ I'm Charge and I've been coding for more than 7 years. At first, I started as a 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-    <a href="https://github.com/charge-dev/UltraBot-Lite.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charge-dev&repo=UltraBot-Lite&theme=react&bg_color=21262D&title_color=15B1A9&hide_border=true&icon_color=7A838C&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/charge-dev/RPC-Plus.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charge-dev&repo=RPC-Plus&theme=react&bg_color=21262D&title_color=15B1A9&hide_border=true&icon_color=7A838C&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/charge-dev/UltraBot-Lite.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charge-dev&repo=UltraBot-Lite&theme=react&bg_color=21262D&title_color=2F81F7&hide_border=true&icon_color=7A838C&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/charge-dev/RPC-Plus.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=charge-dev&repo=RPC-Plus&theme=react&bg_color=21262D&title_color=2F81F7&hide_border=true&icon_color=7A838C&show_icons=false" alt="readme-typing-svg"></a>
   </p>
 
 ---
