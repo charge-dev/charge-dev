@@ -1,5 +1,5 @@
 # About Me
-Front-End Developer (React)<br>Game Developer (UE5)<br>Deep Learning (PyTorch)
+:sparkles: Front-End Developer (React)<br>:video_game: Game Developer (UE5)<br>:globe_with_meridians: Deep Learning (PyTorch)
 
 
 ## Socials
