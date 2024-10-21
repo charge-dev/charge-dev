@@ -1,8 +1,7 @@
 # About Me
 :sparkles: Front-End Developer (React)<br>:video_game: Game Developer (UE5)<br>:globe_with_meridians: Deep Learning (PyTorch)
 
-
-## Socials
+# Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3J48dWqGU7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/charge_dev/) 
 
 # Tech Stack
